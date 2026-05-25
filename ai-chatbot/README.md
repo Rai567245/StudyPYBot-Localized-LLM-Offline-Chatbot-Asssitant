@@ -44,6 +44,76 @@ StudyPYBot is an AI-powered chatbot developed using Python that can interact wit
 
     Then start chatting with the bot through the interface.
 
+## 📦 Python Packages / Dependencies
+
+The following Python libraries and packages were used in developing StudyPYBot:
+
+### Core Packages
+```bash
+pip install torch
+pip install transformers
+pip install accelerate
+pip install sentencepiece
+```
+
+### GUI & Interface
+```bash
+pip install customtkinter
+pip install pillow
+```
+
+### Utility Packages
+```bash
+pip install numpy
+pip install requests
+```
+
+### Built-in Python Modules
+These modules are included with Python and do not require installation:
+
+- tkinter
+- json
+- threading
+- os
+- time
+
+---
+
+## 📋 Example `requirements.txt`
+
+```txt
+torch
+transformers
+accelerate
+sentencepiece
+customtkinter
+pillow
+numpy
+requests
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository and install the dependencies:
+
+```bash
+git clone <your-repository-link>
+cd StudyPYBot
+pip install -r requirements.txt
+```
+
+---
+
+## 🤖 Model Used
+
+StudyPYBot uses:
+
+- TinyLlama-1.1B (Locally Hosted Transformer Model)
+
+Built using the Hugging Face `transformers` library together with `PyTorch`.
+
 ## 🧠 Technologies Used
 
 - Python – Main programming language
