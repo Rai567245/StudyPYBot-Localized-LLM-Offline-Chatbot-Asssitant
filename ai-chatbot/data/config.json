@@ -1,0 +1,22 @@
+{
+    "model_settings": {
+        "name": "TinyLlama-1.1B-Chat-v1.0",
+        "max_tokens": 500
+    },
+    "knowledge_base": {
+        "casual_greetings": {
+            "hello": "Hi there! I am StudyPYBot. How can I help you today with your Python programming?",
+            "hi": "Hello! Ready to dive into some Python? Ask me anything about loops, lists, or syntax!",
+            "who created you": "I am StudyPYBot, created as an Integrative Programming project to help students master Python fundamentals."
+        },
+        "python_concepts": {
+            "what is python": "Python is a high-level, interpreted programming language known for its readability and versatility. It is the primary focus of StudyPYBot.",
+            "how to use a for loop": "A for loop is used for iterating over a sequence. Example: for x in range(5): print(x)",
+            "what is a list": "A list is a built-in data type used to store collections of items. They are created using square brackets: my_list = [1, 2, 3]",
+            "print function": "The print() function outputs text to the console. Example: print('Hello Python!')",
+            "data types": "Python has several built-in data types: \n- Integer (int): 5\n- Floating point (float): 5.5\n- String (str): 'Hello'\n- Boolean (bool): True/False",
+            "indentation": "In Python, indentation is not just for readability; it is used to define the scope of loops, functions, and classes. Standard practice is using 4 spaces.",
+            "comments": "Use the hash symbol (#) for single-line comments. For multi-line comments, use triple quotes (''' or \"\"\")."
+        }
+    }
+}
