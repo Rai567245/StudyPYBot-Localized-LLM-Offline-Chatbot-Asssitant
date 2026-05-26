@@ -138,9 +138,9 @@ Possible future enhancements include:
 
 Presented by:
 
-- Drahcyer Andrew Molina
-- Vanrey G. Magalong
-- Julian Carl Villanueva
+- Drahcyer Andrew Molina **(Frontend & Backend Developer)**
+- Vanrey G. Magalong **(Full Stack Developer & Project Manager)**
+- Julian Carl Villanueva **(Backend Developer & QA)**
 
 ---
 
