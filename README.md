@@ -1,4 +1,4 @@
-# StudyPYBot – Localized LLM Offline Chatbot Assistant
+# StudyPYBot – A Localized LLM Offline Chatbot Assistant
 
 StudyPYBot is an AI-powered educational chatbot designed to help beginners learn Python programming through guided and step-by-step tutoring. Unlike general-purpose AI tools, StudyPYBot focuses on structured learning, helping students understand coding logic, debugging, and problem-solving instead of simply generating direct answers.
 
