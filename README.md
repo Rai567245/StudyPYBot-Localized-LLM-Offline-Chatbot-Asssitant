@@ -4,6 +4,8 @@ StudyPYBot is an AI-powered educational chatbot designed to help beginners learn
 
 Developed as part of the Integrative Programming and Technology course at the University of Makati, the system integrates Natural Language Processing (NLP), a locally deployed language model, and a user-friendly dashboard interface to create an accessible and distraction-free learning environment.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4ce643f-6d11-4502-a21f-f12747fd8dbe" />
+
 ---
 
 ## 📌 Features
